@@ -9,7 +9,7 @@ This project showcases an HR analytics dashboard built in Microsoft Excel using 
 - Interactive Dashboard: Built using Pivot Tables and Excel Slicers
 
 ### 📸 Screenshot
-![Dashboard Screenshot](.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ### 📂 File
 - `HR_Employee_Cleaned.xlsx` – Cleaned dataset and dashboard in one file
